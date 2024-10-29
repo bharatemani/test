@@ -1,3 +1,8 @@
+# Mermaid Diagram with Increased Size
+
+To view the diagram at a larger scale, the scale factor has been increased.
+
+```mermaid
 %% Increase the scale for better visibility on web pages
 %% Change `scale` value as needed
 %% This could go to a 1.5 or even higher depending on desired zoom level
