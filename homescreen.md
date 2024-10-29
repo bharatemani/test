@@ -1,7 +1,7 @@
 [Mermaid](https://mermaid-js.github.io/mermaid/#/flowchart?id=graph)
 ```mermaid
 flowchart TD
-classDef onPushClass fill:#095,stroke:#333,stroke-width:4px;
+classDef onPushClass fill:#095,stroke:#333,stroke-width:20px;
 AppComponent-343[AppComponent]-->PortalComponent-344[PortalComponent]
  PortalComponent-344[PortalComponent]-->HeaderComponent-345[HeaderComponent]
   HeaderComponent-345[HeaderComponent]-->MatToolbar-346[MatToolbar]
