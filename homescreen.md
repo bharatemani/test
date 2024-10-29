@@ -1,5 +1,5 @@
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '16px', 'fontFamily': 'Arial', 'lineColor': '#333', 'primaryColor': '#4a4a4a', 'primaryTextColor': '#fff' }}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '16px', 'fontFamily': 'Arial', 'lineColor': '#333', 'primaryColor': '#00000', 'primaryTextColor': '#fff' }}}%%
 flowchart TD
     classDef onPushClass fill:#095,stroke:#333,stroke-width:4px;
     classDef defaultClass fill:#f9f9f9,stroke:#333,stroke-width:2px;
