@@ -1,3 +1,4 @@
+```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '16px', 'fontFamily': 'Arial', 'lineColor': '#333', 'primaryColor': '#4a4a4a', 'primaryTextColor': '#fff' }}}%%
 flowchart TD
     classDef onPushClass fill:#095,stroke:#333,stroke-width:4px;
@@ -54,3 +55,4 @@ flowchart TD
     
     class MatToolbar-346,MatLegacyButton-348,MatLegacyMenu-349,MatIcon-354,MatIcon-355,MatIcon-356,MatIcon-357,MatIcon-359,MatLegacyMenu-360,MatIcon-364,MatLegacyMenu-365,MatIcon-367,MatIcon-368,MatIcon-373,MatLegacyMenu-374,MatIcon-376,MatIcon-377,MatIcon-382,MatLegacyMenu-383,MatIcon-385,MatIcon-386,MatIcon-389,MatIcon-390 onPushClass
     class AppComponent-343,PortalComponent-344,HeaderComponent-345,MatLegacyTabNav-347,ProjectsWrapperComponent-350,MapWrapperComponent-351,ProjectsLocationMapComponent-352,EsriMapComponent-353,ProjectsPageComponent-358,ProjectCardComponent-361,ContractProgressCardComponent-362,ContractProgressCardComponent-363,IssuesSummaryComponent-366,StatusSummaryComponent-369,ProjectCardComponent-370,ContractProgressCardComponent-371,ContractProgressCardComponent-372,IssuesSummaryComponent-375,StatusSummaryComponent-378,ProjectCardComponent-379,ContractProgressCardComponent-380,ContractProgressCardComponent-381,IssuesSummaryComponent-384,StatusSummaryComponent-387,PaginatorComponent-388,FooterComponent-391 defaultClass
+```
